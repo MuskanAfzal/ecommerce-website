@@ -1,0 +1,93 @@
+.main-header {
+  height: 56vh;
+  width: 60vw;
+  background-color: black;
+  position: absolute;
+  margin-top: 5vh;
+  margin-left: 27vw;
+  display: flex;
+  background-image: url(../../../../public/Screenshot\ 2024-03-02\ 194603.png);
+  background-repeat: no-repeat;
+  background-size: 17vw;
+  background-position: 3.5vw 3vw;
+}
+
+.header-text {
+  color: white;
+  margin-top: 9vw;
+  margin-left: 5vw;
+  text-align: left;
+  font-size: 3vw;
+  font-weight: 600;
+}
+
+.shop-now {
+  color: white;
+  font-size: 1vw;
+  text-decoration: underline;
+}
+
+.shop-now-icon {
+  margin-left: 1.5vw;
+  width: 1vw;
+}
+
+.header-img {
+  width: 23vw;
+  height: 20vw;
+  margin-left: 10vw;
+  margin-top: 0.5vw;
+}
+
+.flash-sale {
+  margin-top: 85vh;
+  position: absolute;
+}
+
+.part-one {
+  display: flex;
+}
+
+.red-box {
+  width: 1vw;
+  background-color: rgb(219, 68, 68);
+  height: 3vw;
+  border-radius: 2px;
+  margin-left: 8vw;
+}
+
+.red-sale-heading {
+  font-size: 1vw;
+  margin-left: 2vw;
+  margin-top: 1vw;
+  font-weight: bold;
+  color: rgb(219, 68, 68);
+}
+
+.part-two {
+  margin-top: 1vw;
+  margin-left: 7.8vw;
+  display: flex;
+}
+
+.flash-sale-heading {
+  font-size: 3vw;
+  font-weight: 500;
+}
+
+.arrow {
+  background-color: rgba(234, 234, 234, 0.537);
+  margin-left: 56vw;
+  width: 2vw;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 90px;
+}
+.arrow-two {
+  background-color: rgba(234, 234, 234, 0.537);
+  width: 2vw;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 90px;
+  margin-left: 1vw;
+}

@@ -1,0 +1,42 @@
+.about-comany-img {
+  margin-left: 8vw;
+  display: flex;
+align-items: center;
+}
+
+.about-company img {
+  margin-top: 30vh;
+  align-items: center;
+  justify-content: center;
+  margin: 10vw;
+  width: 4vw;
+  border: solid rgb(52, 52, 52) 10px;
+  padding: 1vw;
+  border-radius: 50px;
+  background-color: white;
+  filter: invert(100%);
+  margin-bottom: 1vh;
+}
+
+
+.h1-components {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 11vw;
+}
+
+.about-company h1 {
+  font-size: 1.3vw;
+}
+.h2-components {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 11vw;
+  margin-right: 2vw;
+}
+
+.about-company p {
+  font-size: 1vw;
+}

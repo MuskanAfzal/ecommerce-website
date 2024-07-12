@@ -1,0 +1,99 @@
+{
+    "products": [
+      {
+        "img": "/images/product-1.png",
+        "name": "Laptop",
+        "price": 999.99,
+        "sale": "30%",
+        "actualPrice": 1200,
+        "inStock": true,
+        "rating": 4.5,
+        "salesVolume": 200
+      },
+      {
+        "img": "/images/product-2.png",
+        "name": "Running Shoes",
+        "price": 79.99,
+        "sale": "60%",
+        "actualPrice": 147,
+        "inStock": false,
+        "rating": 3.0,
+        "salesVolume": 150
+      },
+      {
+        "img": "/images/product-3.png",
+        "name": "Coffee Maker",
+        "price": 49.95,
+        "sale": "45%",
+        "actualPrice": 78,
+        "inStock": true,
+        "rating": 5.0,
+        "salesVolume": 300
+      },
+      {
+        "img": "/images/product-4.png",
+        "name": "Coffee Maker two",
+        "price": 49.95,
+        "sale": "20%",
+        "actualPrice": 18,
+        "inStock": true,
+        "rating": 5.0,
+        "salesVolume": 780
+      },
+      {
+        "img": "/images/product-5.png",
+        "name": "Coffee Maker three",
+        "price": 49.95,
+        "sale": "30%",
+        "actualPrice": 209,
+        "inStock": true,
+        "rating": 5.0,
+        "salesVolume": 250
+      },
+      {
+        "img": "/images/product-6.png",
+        "name": "Coffee Maker four",
+        "price": 49.95,
+        "sale": "20%",
+        "actualPrice": 209,
+        "inStock": true,
+        "rating": 5.0,
+        "salesVolume": 220
+      }
+    ],
+    "categories": [
+      {
+        "icon": "/images/categories/smartphone.png",
+        "name": "Phones"
+      },
+      {
+        "icon": "/images/categories/monitor.png",
+        "name": "Computers"
+      },
+      {
+        "icon": "/images/categories/smart-watch.png",
+        "name": "SmartWatches"
+      },
+      {
+        "icon": "/images/categories/camera.png",
+        "name": "Cameras"
+      },
+      {
+        "icon": "/images/categories/headphones.png",
+        "name": "Headphones"
+      },
+      {
+        "icon": "/images/categories/game-controller.png",
+        "name": "Games"
+      },
+      {
+        "icon": "/images/categories/chair.png",
+        "name": "GamingChairs"
+      },
+      {
+        "icon": "/images/categories/laptop.png",
+        "name": "Laptops"
+      }
+    ]
+  }
+  
